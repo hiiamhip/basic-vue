@@ -1,3 +1,10 @@
+# Just a minor exercise, take advantage of v-model for two-way binding
+
+![image](https://github.com/user-attachments/assets/d49818f5-a8e1-4a91-9c7c-cdb302b7e47a)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 # basic-vue
 
 This template should help get you started developing with Vue 3 in Vite.
